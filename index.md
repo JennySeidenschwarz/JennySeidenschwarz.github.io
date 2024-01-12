@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+##Jenny Seidenschwarz
 
-You can use the [editor on GitHub](https://github.com/JennySeidenschwarz/JennySeidenschwarz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a third year PhD student in computer vision at the Dynamic Vision and Learning group and Technical University of Munich. I'm interested in perception in 2D and 3D, graph neural networks, and motion!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After my Bachelor's degree in Mechanical Engineering at the Technical University of Munich, I obtained a Master's degree in Robotics, Cognition, and Intelligence also at the Technical University of Munich. During my studies, I did several internships and had several working student jobs, among others in the fields of Deep Learning-based lane detection and Graph Neural Networks. In my Master's, I specialized in Deep Learning and Machine Learning and wrote my thesis on Deep Metric Learning at the Dynamic Vision and Learning group under the supervision of Dr. Ismail Elezi and Prof. Dr. Laura Leal-Taixé. Following my thesis, I started a PhD position at the beginning of 2021 also at the Dynamic Vision and Learning group. In 2023, I spent 10 months at NVIDIA as a research intern working on 3D detection.
 
-### Markdown
+[Github](https://github.com/JennySeidenschwarz) | [LinkedIn](www.linkedin.com/in/jenny-seidenschwarz) | [Google Scholar](https://scholar.google.com/citations?user=7AiuDocAAAAJ&hl=en) | [E-Mail](mailto:jenny.seidenschwarz@gmail.com) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my free time, I do lots of sports preferably in somewhere in the mountains, but also love to just sit down with a good book!
 
-```markdown
-Syntax highlighted code block
+### Publications
 
-# Header 1
-## Header 2
-### Header 3
+J. Seidenschwarz et al. “[Leanring Intra-Batch Connections for Deep Metric Learning.](https://arxiv.org/abs/2102.07753)” (ICML 2021)
 
-- Bulleted
-- List
+I. Elezi et al. “[The Group Loss++: A deeper look into group loss for deep metric learning.](https://arxiv.org/abs/2204.01509)” (PAMI 2022) 
 
-1. Numbered
-2. List
+J. Seidenschwarz et al. “[Simple Cues Lead to a Strong Multi-Object Tracker.](https://arxiv.org/abs/2206.04656)” (CVPR 2023)
 
-**Bold** and _Italic_ and `Code` text
+### Talks
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JennySeidenschwarz/JennySeidenschwarz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Tutorial on “Deep Visual Similarity and Metric Learning” (CVPR 2022)
+“Simple Cues Lead to a Strong Multi-Object Tracker” (Tracking and Its Many Guises, CVPR Workshop 2023)
