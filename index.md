@@ -1,4 +1,4 @@
-##Jenny Seidenschwarz
+## Jenny Seidenschwarz
 
 I'm a third year PhD student in computer vision at the Dynamic Vision and Learning group and Technical University of Munich. I'm interested in perception in 2D and 3D, graph neural networks, and motion!
 
