@@ -6,7 +6,7 @@ After my Bachelor's degree in Mechanical Engineering at the Technical University
 
 [Github](https://github.com/JennySeidenschwarz) | [LinkedIn](www.linkedin.com/in/jenny-seidenschwarz) | [Google Scholar](https://scholar.google.com/citations?user=7AiuDocAAAAJ&hl=en) | [E-Mail](mailto:jenny.seidenschwarz@gmail.com) 
 
-In my free time, I do lots of sports preferably in somewhere in the mountains, but also love to just sit down with a good book!
+Apart from my work, I do lots of sports preferably in somewhere out and about in the mountains, but also love to just sit down with a good book!
 
 ### Publications
 
