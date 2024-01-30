@@ -1,0 +1,71 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.block_content {
+  hyphens: auto; 
+	text-align: justify
+}
+
+.circular_image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  overflow: hidden;
+  vertical-align: middle;
+  /* background-color: blue; */
+
+  /* commented for demo
+  float: left;
+  margin-left: 125px;
+  margin-top: 20px;
+  */
+  
+  /*for demo
+  display:inline-block;
+  vertical-align:middle;
+
+  text-align:right;
+  float: left;
+*/
+
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-column-gap: 20px;
+  text-align:justify;
+  /*align-items: center;*/
+}
+
+.reach_me {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-column-gap: 20px;
+  text-align:justify;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 0px;
+}
+
+.column_img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.grey_heading {
+  h3 {
+   color: #808080;
+ }
+}
