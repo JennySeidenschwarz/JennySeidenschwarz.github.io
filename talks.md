@@ -15,7 +15,7 @@ title: Talks
 
 
  <div class="wrapper">
-  <div class="grid-item"><div class="sub_head">Tutorial on Deep Visual Similarity and Metric Learning (CVPR 2022)</div><div class="block_text">  Together with Timo Milbich and Björn Ommer from Ludwigs Maximilians University Munich, we gave an introduction on learning visual similarity, the different objective functions that can be used, best practices as well as its wide variety of usages! Find the recording of the talks below and the slides <a href="https://dvsml2022-tutorial.github.io/index.html">here</a>. </div></div>
+  <div class="grid-item"><div class="sub_head">Tutorial on Deep Visual Similarity and Metric Learning (CVPR 2022)</div><div class="block_text">  Together with Dr. Timo Milbich and Prof. Björn Ommer from Ludwigs Maximilians University Munich, we gave an introduction on learning visual similarity, the different objective functions that can be used, best practices as well as its wide variety of usages! Find the recording of the talks below and the slides <a href="https://dvsml2022-tutorial.github.io/index.html">here</a>. </div></div>
 <div class="grid-item center_text column_img"> <a href="https://www.youtube.com/watch?v=YAW9vsdwRfA"><img class="circular_image" src="imgs/Image_for_video2.png" alt="drawing" height="120"></a> </div>
 </div>
 <br/><br/> 
