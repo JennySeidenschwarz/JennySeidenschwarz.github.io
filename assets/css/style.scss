@@ -51,7 +51,6 @@
   
   @media only screen and (min-width: 500px)  {
     .wrapper {
-        text-align:justify;
         grid-template-columns: auto auto;
     }
     }
@@ -59,16 +58,8 @@
   @media only screen and (min-width: 600px)   {
     .wrapper {
         grid-gap: 20px;
-        text-align:justify;
         grid-template-columns: auto auto;
     }
-  }
-  
-  .reach_me {
-    display: grid;
-    grid-template-columns: auto auto auto auto;
-    grid-column-gap: 20px;
-    text-align:justify;
   }
   
   .row {
@@ -84,7 +75,6 @@
   }
   
   .column_img {
-    margin-top: 8px;
     vertical-align: middle;
   }
 
@@ -95,5 +85,9 @@
   }
   
   .block_text {
-    text-align: justify
+    text-align: justify;
+  }
+
+  .center_text {
+    text-align: center;
   }
