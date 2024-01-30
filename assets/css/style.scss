@@ -65,10 +65,13 @@
     margin-top: 8px;
     vertical-align: middle;
   }
-  
-  .grey_heading {
-    h3 {
-     color: #808080;
-   }
+
+  .sub_head {
+    font-weight: bold;
+    color: black;
+    size:4;
   }
   
+  .block_text {
+    text-align: justify
+  }
