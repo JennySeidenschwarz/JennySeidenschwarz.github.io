@@ -14,7 +14,7 @@ After my Bachelor's degree in Mechanical Engineering at the Technical University
 
 ## Updates
 
-- 2024/12/15: I will join the group of Prof. Ramanan at CMU for a vising PhD from Feburary!
+- 2024/12/15: I will join the group of Prof. Ramanan at CMU for a visiting PhD from Feburary!
 - 2023/12/05: After submitting the results fo my internship to CVPR I'm back at the University!
 - 2023/02/25: Our paper Simple Cues Lead to a Strong Multi-Object Tracker got accepted to CVPR 2023!
 - 2023/02/06: I joined NVIDIA for a 10 months intership working on LiDAR point clouds!
