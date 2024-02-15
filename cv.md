@@ -10,6 +10,8 @@ Below you can find details about my professional experience and my education. Al
 
 ### Education 
 <div class="wrapper">
+    <div class="grid-item"><div class="sub_head">Visiting Ph.D.</div><div class="block_text">  Since Jan 2021</div></div>
+    <div class="grid-item block_text "> <div class="sub_head_gray">Robotics Institute, CMU </div> Deep Learning-based 2D and 3D Tracking and Object Detection.</div>
     <div class="grid-item"><div class="sub_head">Ph.D. candidate</div><div class="block_text">  Since Jan 2021</div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Dynamic Vision and Learning Group, TUM </div> Deep Learning-based Metric Learning, 2D and 3D Tracking and Object Detection.</div>
     <div class="grid-item"><div class="sub_head">M. Sc.</div><div class="block_text">  March 2018 - <br/> Nov 2020</div></div>
