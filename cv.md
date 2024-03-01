@@ -6,7 +6,7 @@ layout: page
 title: CV
 ---
 
-Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1HeGdTSmbPJO4YwOV6zrV665AWf2hKUht/view?usp=sharing).
+Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1_Zi4rHmH3355j6uVVfRW02PwHeDSVCc3/view?usp=sharing).
 
 ### Education 
 <div class="wrapper">
