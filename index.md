@@ -14,6 +14,7 @@ After my Bachelor's degree in Mechanical Engineering at the Technical University
 
 ## Updates
 
+- 2024/08/12: I started another internship with NVIDIA in Santa Clara, CA!
 - 2024/02/26: Our paper SeMoLi: What Moves Together Belongs Together got accepted to CVPR 2024!
 - 2023/12/15: I will join the group of Prof. Ramanan at CMU for a visiting PhD from Feburary!
 - 2023/12/05: After submitting the results fo my internship to CVPR I'm back at the University!
