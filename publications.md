@@ -7,8 +7,14 @@ title: Publications
 ---
 
 <div class="wrapper">
-  <div class="grid-item"><div class="sub_head">Jenny Seidenschwarz, Aljoša Ošep, Francesco Ferroni, Simon Lucey, Laura Leal-Taixé. “SeMoLi: What Moves Together Belongs Together.” (CVPR 2024 )</div><div class="block_text">We re-think motion-inspired heuristic-based approaches to generate pseudo-labels for LiDAR-based object detection. Both, object detection as well as motion-inspired pseudo-labeling, can be tackled in a data-driven manner. We leverage recent advances in scene flow estimation to obtain point trajectories from which we extract long-term, class-agnostic motion patterns.  <a href="https://arxiv.org/abs/2402.19463">[paper]</a></div> </div>
-<div class="grid-item center_text column_img"><a href="https://arxiv.org/abs/2206.04656"><img class="circular_image" src="imgs/semoli-teaser-smLL.png"/></a></div>
+  <div class="grid-item"><div class="sub_head">Jenny Seidenschwarz, Qunjie Zhou, Bardenius Duisterhof, Deva Ramanan, Laura Leal-Taixé. “DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction” (arxiv 2023)</div><div class="block_text">We explore dynamic, online, monocular 3D reconstruction with Gaussian Splatting to perform online point tracking. Exploiting depth information as well as strong semantic image features together with physics-based priors that we also enhace with semantircs, DynOMo generates emerging trajectories and extends the world over the video.  <a href="https://arxiv.org/abs/2409.02104">[paper]</a> </div> </div>
+<div class="grid-item center_text column_img"><a href="https://arxiv.org/abs/2409.02104"><img class="circular_image" src="imgs/semoli-teaser-smLL.png"/></a></div>
+</div>
+<br/><br/> 
+
+<div class="wrapper">
+  <div class="grid-item"><div class="sub_head">Jenny Seidenschwarz, Aljoša Ošep, Francesco Ferroni, Simon Lucey, Laura Leal-Taixé. “SeMoLi: What Moves Together Belongs Together.” (CVPR 2024)</div><div class="block_text">We re-think motion-inspired heuristic-based approaches to generate pseudo-labels for LiDAR-based object detection. Both, object detection as well as motion-inspired pseudo-labeling, can be tackled in a data-driven manner. We leverage recent advances in scene flow estimation to obtain point trajectories from which we extract long-term, class-agnostic motion patterns.  <a href="https://arxiv.org/abs/2402.19463">[paper]</a> / <a href="https://github.com/dvl-tum/SeMoLi">[code]</a> / <a href="https://research.nvidia.com/labs/dvl/projects/semoli">[project page]</a> </div> </div> 
+<div class="grid-item center_text column_img"><a href="https://arxiv.org/abs/2402.19463"><img class="circular_image" src="imgs/semoli-teaser-smLL.png"/></a></div>
 </div>
 <br/><br/> 
 
