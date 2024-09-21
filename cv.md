@@ -6,7 +6,7 @@ layout: page
 title: CV
 ---
 
-Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1_Zi4rHmH3355j6uVVfRW02PwHeDSVCc3/view?usp=sharing).
+Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1A1lI-0lmryJZLNXaDNXpf4MF0q2Q2dsA/view?usp=sharing).
 
 ### Education 
 <div class="wrapper">
@@ -25,6 +25,8 @@ Below you can find details about my professional experience and my education. Al
 ### Professional Experience
 
 <div class="wrapper">
+    <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Aug 2024 – <br/> </div></div>
+    <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Software Robotics Group</div> Development of 3D reconstructions for simulation purposes.</div>
     <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Feb 2023 – <br/> Nov 2023</div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Dynamic Vision and Learning Group</div> Development of semi-supervised 3D Multi-Object Tracking approaches.</div>
     <div class="grid-item"><div class="sub_head">Working Student</div><div class="block_text"> Feb 2020 –  <br/> Aug 2020</div></div>
