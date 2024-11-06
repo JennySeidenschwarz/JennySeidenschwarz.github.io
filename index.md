@@ -14,14 +14,16 @@ After my Bachelor's degree in Mechanical Engineering at the Technical University
 
 ## Updates
 
+- 2024/11/05: Our paper "DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction" got accepted to 3DV 2025!
+- 2024/08/29: Our paper "DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation" got accepted to WAFR 2024!
 - 2024/08/12: I started another internship with NVIDIA in Santa Clara, CA!
-- 2024/02/26: Our paper SeMoLi: What Moves Together Belongs Together got accepted to CVPR 2024!
+- 2024/02/26: Our paper "SeMoLi: What Moves Together Belongs Together" got accepted to CVPR 2024!
 - 2023/12/15: I will join the group of Prof. Ramanan at CMU for a visiting PhD from Feburary!
 - 2023/12/05: After submitting the results fo my internship to CVPR I'm back at the University!
-- 2023/02/25: Our paper Simple Cues Lead to a Strong Multi-Object Tracker got accepted to CVPR 2023!
+- 2023/02/25: Our paper "Simple Cues Lead to a Strong Multi-Object Tracker" got accepted to CVPR 2023!
 - 2023/02/06: I joined NVIDIA for a 10 months intership working on LiDAR point clouds!
 - 2022/07/06: I attended the International Computer Vision Summer School in Sicily!
 - 2022/06/18: We gave our tutorial on Deep Visual Similarity Learning at CVPR 2022!
-- 2022/04/04: Our paper GroupLoss++: A Deeper Look into Group Loss for Deep Metric Learning got accepted to PAMI!
-- 2021/05/10: Our paper Learning Intra-Batch Connections for Deep Metric Learning got accepted to ICML 2021!
+- 2022/04/04: Our paper "GroupLoss++: A Deeper Look into Group Loss for Deep Metric Learning" got accepted to PAMI!
+- 2021/05/10: Our paper "Learning Intra-Batch Connections for Deep Metric Learning" got accepted to ICML 2021!
 
