@@ -6,11 +6,11 @@ layout: page
 title: CV
 ---
 
-Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1tLirwzAl_jZOjZFvaDmX6bXWov-Na7eX/view?usp=sharing).
+Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1nVsEBiEv8XLVBTiT0teQ6MJFmXx4mi1e/view?usp=sharing).
 
 ### Education 
 <div class="wrapper">
-    <div class="grid-item"><div class="sub_head">Visiting Ph.D.</div><div class="block_text">  Since Jan 2021</div></div>
+    <div class="grid-item"><div class="sub_head">Visiting Ph.D.</div><div class="block_text">  Jan 2024 - <br/> Jun 2024</div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Robotics Institute, CMU </div> Deep Learning-based 2D and 3D Tracking and Object Detection.</div>
     <div class="grid-item"><div class="sub_head">Ph.D. candidate</div><div class="block_text">  Since Jan 2021</div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Dynamic Vision and Learning Group, TUM </div> Deep Learning-based Metric Learning, 2D and 3D Tracking and Object Detection.</div>
@@ -25,8 +25,8 @@ Below you can find details about my professional experience and my education. Al
 ### Professional Experience
 
 <div class="wrapper">
-    <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Aug 2024 – <br/> </div></div>
-    <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Software Robotics Group</div> Development of 3D reconstructions for simulation purposes.</div>
+    <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Aug 2024 – <br/> Dec 2024 </div></div>
+    <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Software Robotics Group</div> Research on 3D reconstruction for digital twin generation for simulation purposes in the robotics environment.</div>
     <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Feb 2023 – <br/> Nov 2023</div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Dynamic Vision and Learning Group</div> Development of semi-supervised 3D Multi-Object Tracking approaches.</div>
     <div class="grid-item"><div class="sub_head">Working Student</div><div class="block_text"> Feb 2020 –  <br/> Aug 2020</div></div>
