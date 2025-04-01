@@ -6,7 +6,7 @@ layout: page
 title: CV
 ---
 
-Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1nVsEBiEv8XLVBTiT0teQ6MJFmXx4mi1e/view?usp=sharing).
+Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1A1lI-0lmryJZLNXaDNXpf4MF0q2Q2dsA/view?usp=sharing).
 
 ### Education 
 <div class="wrapper">
@@ -26,15 +26,15 @@ Below you can find details about my professional experience and my education. Al
 
 <div class="wrapper">
     <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Aug 2024 – <br/> Dec 2024 </div></div>
-    <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Software Robotics Group</div> Research on 3D reconstruction for digital twin generation for simulation purposes in the robotics environment.</div>
+    <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Software Robotics Group, Santa Clara, CA, USA</div> Research on 3D reconstruction for digital twin generation for simulation purposes in the robotics environment.</div>
     <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Feb 2023 – <br/> Nov 2023</div></div>
-    <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Dynamic Vision and Learning Group</div> Development of semi-supervised 3D Multi-Object Tracking approaches.</div>
+    <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Dynamic Vision and Learning Group, Florence, Italy</div> Development of semi-supervised 3D Multi-Object Tracking approaches.</div>
     <div class="grid-item"><div class="sub_head">Working Student</div><div class="block_text"> Feb 2020 –  <br/> Aug 2020</div></div>
-    <div class="grid-item block_text "> <div class="sub_head_gray">Siemens AG, Siemens Corporate Technology  </div> Development of graph convolutional neural networks and graph attention networks for the analysis of engineering data and benchmark datasets </div>
+    <div class="grid-item block_text "> <div class="sub_head_gray">Siemens AG, Siemens Corporate Technology, Munich, Germany  </div> Development of graph convolutional neural networks and graph attention networks for the analysis of engineering data and benchmark datasets </div>
     <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Sep 2019 - <br/> Dec 2019</div></div>
-    <div class="grid-item block_text "> <div class="sub_head_gray">Continental AG, Future Development </div> Deep learning-based lane detection, lane modeling, and development of new data augmentation techniques for IPM images “ </div>
+    <div class="grid-item block_text "> <div class="sub_head_gray">Continental AG, Future Development, Munich, Germany </div> Deep learning-based lane detection, lane modeling, and development of new data augmentation techniques for IPM images “ </div>
     <div class="grid-item"><div class="sub_head">Working Student</div><div class="block_text">  March 2019 - <br/> Aug 2019</div></div>
-    <div class="grid-item block_text "> <div class="sub_head_gray"> Fortiss GmbH, Robotic Group </div> Research on intention recognition in the industrial environment based on computer vision and deep learning “ </div>
+    <div class="grid-item block_text "> <div class="sub_head_gray"> Fortiss GmbH, Robotic Group, Munich, Germany </div> Research on intention recognition in the industrial environment based on computer vision and deep learning “ </div>
 </div>
 <br/>
 
