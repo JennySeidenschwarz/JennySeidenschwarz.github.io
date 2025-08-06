@@ -25,6 +25,8 @@ Below you can find details about my professional experience and my education. Al
 ### Professional Experience
 
 <div class="wrapper">
+    <div class="grid-item"><div class="sub_head">Member of Technical Staff</div><div class="block_text">  June 2025 – <br/> </div></div>
+   <div class="grid-item block_text "> <div class="sub_head_gray">Odyssey, Research Team, London, UK </div> Research towards interactive generative models.</div>
     <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Aug 2024 – <br/> Dec 2024 </div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Nvidia, Software Robotics Group, Santa Clara, CA, USA</div> Research on 3D reconstruction for digital twin generation for simulation purposes in the robotics environment.</div>
     <div class="grid-item"><div class="sub_head">Research Intern</div><div class="block_text">  Feb 2023 – <br/> Nov 2023</div></div>
