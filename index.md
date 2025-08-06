@@ -14,7 +14,7 @@ After my Bachelor's degree in Mechanical Engineering at the Technical University
 
 ## Updates
 
-- 2025/06/02: I joined the research staff at Odyssey in London pushing towards interative generative models!
+- 2025/06/02: I joined the research staff at Odyssey in London pushing research boundaries towards interactive generative models in a more product focused way!
 - 2024/11/05: Our paper "DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction" got accepted to 3DV 2025!
 - 2024/08/29: Our paper "DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation" got accepted to WAFR 2024!
 - 2024/08/12: I started another internship with NVIDIA in Santa Clara, CA!
