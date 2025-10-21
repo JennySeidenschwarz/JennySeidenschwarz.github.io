@@ -6,13 +6,13 @@ layout: page
 title: CV
 ---
 
-Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1A1lI-0lmryJZLNXaDNXpf4MF0q2Q2dsA/view?usp=sharing).
+Below you can find details about my professional experience and my education. Also feel free to download my CV [here](https://drive.google.com/file/d/1M8X8QlP7MYlSevzyvxcrO5ESjadhKaJo/view?usp=sharing).
 
 ### Education 
 <div class="wrapper">
     <div class="grid-item"><div class="sub_head">Visiting Ph.D.</div><div class="block_text">  Jan 2024 - <br/> Jun 2024</div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Robotics Institute, CMU </div> Deep Learning-based 2D and 3D Tracking and Object Detection.</div>
-    <div class="grid-item"><div class="sub_head">Ph.D. candidate</div><div class="block_text">  Since Jan 2021</div></div>
+    <div class="grid-item"><div class="sub_head">Ph.D. Student </div><div class="block_text"> Jan 2021 - <br/> May 2025 </div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Dynamic Vision and Learning Group, TUM </div> Deep Learning-based Metric Learning, 2D and 3D Tracking and Object Detection.</div>
     <div class="grid-item"><div class="sub_head">M. Sc.</div><div class="block_text">  March 2018 - <br/> Nov 2020</div></div>
     <div class="grid-item block_text "> <div class="sub_head_gray">Robotics, Cognition and Intelligence, TUM  </div> Master Thesis: “Exploiting Intra-Batch Relations for Image-Retrieval”, Dynamic Vision and Learning Group </div>
