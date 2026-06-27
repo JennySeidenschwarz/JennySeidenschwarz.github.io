@@ -7,6 +7,12 @@ title: Publications
 ---
 
 <div class="wrapper">
+  <div class="grid-item"><div class="sub_head">Ahmet H. Güzel, Jenny Seidenschwarz, Benjamin Graham, Jonathan Sadeghi, Jeffrey Hawke, Ilija Bogunovic. “PROWL: Prioritized Regret-Driven Optimization for World Model Learning” (arxiv 2026)</div><div class="block_text">We introduce a co-evolved min-max framework that leverages a KL-constrained adversarial curriculum to actively expose and patch high-error failure modes in diffusion-based video world models. Exploiting a Prioritized Adversarial Trajectory buffer that ranks interactions by prediction regret and learning progress, PROWL converts rare, interaction-critical transitions into a stable training signal, significantly improving out-of-distribution robustness over passive pretraining.<a href="https://arxiv.org/abs/2605.18803">[paper]</a> / </div> </div>
+<div class="grid-item center_text column_img"><a href="https://arxiv.org/abs/2605.18803"><img class="circular_image" src="imgs/prowl-teaser-smLL.png"/></a></div>
+</div>
+<br/><br/> 
+
+<div class="wrapper">
   <div class="grid-item"><div class="sub_head">Jenny Seidenschwarz, Qunjie Zhou, Bardenius Duisterhof, Deva Ramanan, Laura Leal-Taixé. “DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction” (3DV 2025)</div><div class="block_text">We explore dynamic, online, monocular 3D reconstruction with Gaussian Splatting to perform online point tracking. Exploiting depth information as well as strong semantic image features together with physics-based priors that we also enhace with semantircs, DynOMo generates emerging trajectories and extends the world over the video.  <a href="https://arxiv.org/abs/2409.02104">[paper]</a> / <a href="https://github.com/dvl-tum/DynOMo">[code]</a> / <a href="https://jennyseidenschwarz.github.io/DynOMo.github.io/">[project page]</a> </div> </div>
 <div class="grid-item center_text column_img"><a href="https://arxiv.org/abs/2409.02104"><img class="circular_image" src="imgs/dynomo-teaser-smLL.png"/></a></div>
 </div>
