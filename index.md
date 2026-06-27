@@ -6,14 +6,21 @@ layout: home_custom
 title: About me
 ---
 
-<div class="block_text">I'm a third year PhD student in computer vision at the Dynamic Vision and Learning group and Technical University of Munich. I'm interested in perception in 2D and 3D, graph neural networks, and motion!
-After my Bachelor's degree in Mechanical Engineering at the Technical University of Munich, I obtained a Master's degree in Robotics, Cognition, and Intelligence also at the Technical University of Munich. During my studies, I did several internships and had several working student jobs, among others in the fields of Deep Learning-based lane detection and Graph Neural Networks. In my Master's, I specialized in Deep Learning and Machine Learning and wrote my thesis on Deep Metric Learning at the Dynamic Vision and Learning group under the supervision of Dr. Ismail Elezi and Prof. Dr. Laura Leal-Taixé. Following my thesis, I started a PhD position at the beginning of 2021 also at the Dynamic Vision and Learning group. In 2023, I spent 10 months at NVIDIA as a research intern working on 3D detection. Apart from my work, I do lots of sports preferably in somewhere out and about in the mountains, but also love to just sit down with a good book!</div>
+<div class="block_text">
+  <p>I am an AI Research Scientist at Odyssey, specializing in spatial intelligence, generative world models, and 3D dynamics. My research focuses on bridging the gap between static scene representation and temporally dynamic, physical simulations. Currently, my work focuses on pushing the frontiers of multi-modal autoregressive generation, diffusion models, and (multi-agent) reinforcement learning frameworks. </p>
+
+<p>I completed my PhD in Computer Vision at the Technical University of Munich (TUM) under the supervision of Prof. Dr. Laura Leal-Taixé, where I also earned a Bachelor's in Mechanical Engineering and a Master's in Robotics, Cognition, and Intelligence. Throughout my research, I have had the privilege of collaborating with leading groups across industry and academia, including a 10-month research internship at NVIDIA focusing on 3D detection, a 5-month stay at Carnegie Mellon University working on 3D point tracking and reconstruction, and a subsequent 4-month return to NVIDIA focusing on RGB-D diffusion for 3D reconstruction. </p>
+
+<p>When I’m not thinking about latent rollouts and physical simulators, I am usually chasing down green spaces. I’m an experienced hiker, a distance runner (always down for a 9K to clear the mind), and currently embracing the beginner’s mindset in surfing, kite-surfing, and motorcycling. Otherwise, you can find me sitting down somewhere quiet with a good book!</p>
+</div>
 
 
 <br/><br/> 
 
 ## Updates
 
+- 2026/05/26: Checkout Starchild-1, a autoregressive audio-video model for joint audio-video generation!
+- 2026/05/12: Check out our new paper PROWL, a reinforcement Learning framework to make the improve action conditioned world models!
 - 2025/06/02: I joined the research staff at Odyssey in London pushing research boundaries towards interactive generative models in a more product focused way!
 - 2024/11/05: Our paper "DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction" got accepted to 3DV 2025!
 - 2024/08/29: Our paper "DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation" got accepted to WAFR 2024!
